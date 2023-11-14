@@ -1,0 +1,116 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    width: 1400px;
+    height: 7211px;
+    background-color: #FFF;
+    box-sizing: border-box;
+}
+
+.block-one {
+
+    width: 1150px;
+    height: 650px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    margin-top: 128px;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+
+h1 { 
+    width: 956px;
+    height: 120px;
+    color: #121212;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -1.8px;
+    
+}
+    
+.kreslo {
+    width: 1150px;
+    height: 500px;
+    background-image: url('../resources/kreslo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    
+}
+
+
+.p-one { 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.6px;
+    line-height: normal;
+    color: #FFF;
+    width: 430px;
+    height: 81px;
+    padding-top: 379px;
+    padding-left: 40px;
+ }   
+
+ .block-two {
+    width: 1051px;
+    height: 518px;
+    margin-top: 150px;
+    margin-left: 125px;
+    margin-right: 224px;
+    
+ }
+
+h2 {
+    width: 51px;
+    height: 25px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.54px;
+    text-transform: uppercase;
+    color: #121212;
+    
+    
+}
+
+.p-two {
+    width: 1048px;
+    height: 366px;
+    color: #121212;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.35px;
+    margin-top: 30px;
+    padding-left: 3px;
+    
+
+}
+
+a {
+    color: #FFF;
+    width: 255px;
+    height: 67px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.6px;
+    text-decoration: none;
+    display: block;
+    border: 1px solid #AD1818;
+    text-align: center;
+    line-height: 67px;
+    border-radius: 5px;
+    background: #AD1818;
+    margin-top: 30px;
+    box-sizing: border-box;
+    
+}
+
+a:hover {
+    color: #AD1818;
+    background-color: #FFF;
+}
